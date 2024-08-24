@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )]
 
-![rafanuso GitHub stats](https://github-readme-stats.vercel.app/api?username=rafanuso&show_icons=true&theme=radical)
+![rafanuso GitHub stats](https://github-readme-stats.vercel.app/api?username=rafanuso&show_icons=true&theme=light)
 
 ## Tecnologias em uso no meu dia a dia
 
