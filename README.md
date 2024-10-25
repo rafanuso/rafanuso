@@ -1,5 +1,5 @@
 
-### Olá! eu sou o Rafael Nunes, seja bem vindo ao meu perfil😉
+### Olá! eu sou o Rafael Nunes, seja bem vindo ao meu perfil.
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 )](https://urubu.ong.br)
